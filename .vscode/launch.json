@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/yashido/projects/cs-modExtractor",
-      "program": "/home/yashido/projects/cs-modExtractor/build/Debug/outDebug",
+      "cwd": "/home/wimllie/projects/cs-modExtractor",
+      "program": "/home/wimllie/projects/cs-modExtractor/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
